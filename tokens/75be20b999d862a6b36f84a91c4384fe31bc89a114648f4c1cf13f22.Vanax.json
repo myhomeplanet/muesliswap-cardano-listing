@@ -1,0 +1,9 @@
+{
+    "policyId": "75be20b999d862a6b36f84a91c4384fe31bc89a114648f4c1cf13f22",
+    "name": "Vanax", 
+    "symbol": "VANAX", 
+    "website": "www.vanax.org", 
+    "description": "VANAX™ The first „Digital Synthetic Meme Coin Drug“",
+    "totalSupply": 16500005000,
+    "amounts": [1000000,20000000, 50000000, 100000000, 200000000, 1000000000, 10000000000, 100000000000]
+}
